@@ -4,7 +4,7 @@ def looping
   loop do
     puts "Wingardium Leviosa"
     count +=1
-    if count >= 5
+    if count >= 10
       break
     end
   end
